@@ -1,0 +1,11 @@
+https://github.com/tzapu/WiFiManager
+SPI
+adafruit/Adafruit CCS811 Library
+adafruit/Adafruit BME280 Library
+adafruit/Adafruit Unified Sensor
+adafruit/Adafruit BMP280 Library
+bblanchon/ArduinoJson
+adafruit/DHT sensor library
+arduino-libraries/NTPClient
+claws/BH1750
+adafruit/Adafruit BMP085 Library
